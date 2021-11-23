@@ -1,5 +1,3 @@
-[![Jesicca](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/Jesicca)
-
 <p align="center">
 <img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="Eva Maria Logo">
 </p>
@@ -82,9 +80,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
 </p>
 
-<p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
-</p>
+[![Jesicca](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARJUN-PRADEEP-123/Jesicca)
+
 
 ----
 
